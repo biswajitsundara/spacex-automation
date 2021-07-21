@@ -1,9 +1,15 @@
-## Travel Automation
+## Space X Automation
 @author - Biswajit Sundara
 
 ### API details
 baseUrl = https://api.spacexdata.com
-endPoint = /v4/launches/latest
+<br>endPoint = /v4/launches/latest
+
+### Tools Used
+* Rest Assured
+* Json Path
+* Maven
+* TestNG
 
 ### How to setup the project
 * Clone the repository
