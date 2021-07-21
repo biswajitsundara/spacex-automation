@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-21T18:18:20Z" name="Default suite" finished-at="2021-07-21T18:18:23Z" duration-ms="3813">
+    <groups>
+    </groups>
+    <test started-at="2021-07-21T18:18:20Z" name="Default test" finished-at="2021-07-21T18:18:23Z" duration-ms="3813">
+      <class name="appl.tests.SpaceXTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:appl.tests.SpaceXTests@54bff557]" started-at="2021-07-21T18:18:20Z" name="setup" finished-at="2021-07-21T18:18:20Z" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC001_validateResponseAndContent()[pri:0, instance:appl.tests.SpaceXTests@54bff557]" started-at="2021-07-21T18:18:20Z" name="TC001_validateResponseAndContent" finished-at="2021-07-21T18:18:21Z" duration-ms="1390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_validateResponseAndContent -->
+        <test-method signature="TC002_validateRocketDetails()[pri:0, instance:appl.tests.SpaceXTests@54bff557]" started-at="2021-07-21T18:18:21Z" name="TC002_validateRocketDetails" finished-at="2021-07-21T18:18:22Z" duration-ms="1035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002_validateRocketDetails -->
+        <test-method signature="TC003_validateLaunchLandings()[pri:0, instance:appl.tests.SpaceXTests@54bff557]" started-at="2021-07-21T18:18:22Z" name="TC003_validateLaunchLandings" finished-at="2021-07-21T18:18:23Z" duration-ms="893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003_validateLaunchLandings -->
+      </class> <!-- appl.tests.SpaceXTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
